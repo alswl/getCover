@@ -41,3 +41,5 @@ It works at MacOS / Linux.
 > 
 > 脚本在 Mac 下测试通过，理论上说 Windows 以及其他平台都可以正常
 > 使用。如果在使用过程中碰到问题，欢迎联系我。
+
+link: http://www.gracecode.com/posts/3009.html
